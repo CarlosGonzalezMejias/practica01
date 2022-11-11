@@ -1,0 +1,11 @@
+- git clone
+- git branch -ar
+- cd
+- git add .
+- git commit -m""
+- git status
+- git remote -v
+- git remote remove origin
+- git remote add origin
+- git merge
+- git push
